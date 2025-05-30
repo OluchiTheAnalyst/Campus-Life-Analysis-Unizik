@@ -44,7 +44,10 @@ EDA involves exploring the sales data to answer key questions, such as;
 
 ## Data Analysis
 
- - [Dashboard](project xlsx.png)![Project xlsx screenshot](https://github.com/OluchiTheAnalyst/THE-IMPACT-OF-ECONOMIC-FACTORS-ON-UNIVERSITY-STUDENTS-IN-UNIZIK-/assets/152318870/ff96215c-81c2-4c25-95b4-217feab9922d)
+ - ![Screenshot (221)](https://github.com/user-attachments/assets/51ae60c7-01a2-4508-bc8e-2a5d0fa4c8ae)
+ - ![Screenshot (218)](https://github.com/user-attachments/assets/6d44da2e-e753-4968-abfe-82b8ce32d8fd)
+
+
 
  - Link to the google form: [Check here](https://forms.gle/dGN4hizbygVCxvDX9)
 
@@ -53,11 +56,14 @@ EDA involves exploring the sales data to answer key questions, such as;
 
 The analysis results are summarized as follows;
 
-1. This analysis clearly shows that the challenge that affects students "THE MOST" in campus is COST OF LIVING
-2. Cost of living is the top concern of students in unizik.
-3. From the analysis, about 47.4% of students have an average financial status , 32.1% are struggling financially and 20.1% are living comfortably.
-4. 60.3% have an average feeding habit, 14.1% have a well balanced and nutritious diet, another 14.1% buy food from eatries, and 11.5% have a very poor feeding habit
-
+1. 32% of students are struggling financially which means a significant portion is facing hardship.
+2. 76% have a source of income which means majority are trying to support themselves BUT a large number also report "Struggling", with fewer saying "Comfortable" which means financial comfort is the minority. Also, most students fall under "Just Enough To Get By" which Indicates moderate economic pressure is the norm (even those earning aren't earning enough).
+3. 24% have no source of income which means about 1 in 4 students lack income.
+4. 60.26% of students say cost of living is their top concern.
+5. Students with a source of income eat more “average” or “well-balanced” meals while those without income tend to eat “very poor” meals or mostly fast food.
+6. Students in on-campus lodges are more likely to be struggling compared to those in family houses.
+7. 400L and 500L students report cost of living as their highest struggle.
+8. 100L, 200L and 300L show varied concerns but also lean toward cost and tuition as their highest struggle.
 ## Recommendation
 
 Based on the analysis and results, I recommend the following actions ;
